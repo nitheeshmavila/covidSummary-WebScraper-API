@@ -1,1 +1,0 @@
-# covidSummary-WebScraper-API
